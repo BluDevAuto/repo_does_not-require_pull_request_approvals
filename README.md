@@ -1,0 +1,1 @@
+# repo_does_not-require_pull_request_approvals
